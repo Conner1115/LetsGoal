@@ -73,6 +73,13 @@ Presentation: https://docs.google.com/presentation/d/1GgYKkaBDwpMgMIW59Lra1EExp8
 Website: ideasiteentry.devunited.repl.co
 DevPost: https://devpost.com/software/let-s-goal?ref_content=user-portfolio&ref_feature=in_progress
 
+### Sources
+https://storyset.com/people%22%3EIllustration by Freepik Storyset
+https://www.statista.com/statistics/283354/top-10-countries-volunteering-time-for-charities/
+https://ilostat.ilo.org/topics/volunteer-work/#
+https://nonprofitssource.com/online-giving-statistics/volunteering-statistics/#:~:text=Approximately%2063%20million%20Americans%20%E2%80%94%2025,their%20time%20to%20our%20communities.
+https://www.unv.org/swvr/volunteers-count-their-work-deserves-be-counted#:~:text=Global%20estimates%20place%20the%20number,published%20by%20John%20Hopkins%20University
+
 Thanks for reading!
 
 **Let's Goal**, *Volunteer and help to change the world*
